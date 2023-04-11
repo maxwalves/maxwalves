@@ -7,7 +7,7 @@
           <br/>
           Disponibilidade para atuação tanto presencial, quanto remota.
           <br/>
-          Atualmente sou 1º Tenente do Exército Brasileiro e trabalho na Seção de Tecnologia de Informação do 15º GAC AP.
+          Atualmente sou Analista de Desenvolvimento de Sistemas no PARANACIDADE.
         <br/>
         <br/>
         <div>
