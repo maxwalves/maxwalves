@@ -5,9 +5,7 @@
         <p align="left" style="font-size: 17px"> 
           Meu nome é <strong>Max William</strong> e eu sou um <strong>Engenheiro de Software</strong> com experiência em desenvolvimento de software e gerenciamento de projetos.<br>
           <br/>
-          Disponibilidade para atuação tanto presencial, quanto remota.
-          <br/>
-          Atualmente sou Analista de Desenvolvimento de Sistemas no PARANACIDADE.
+          Atualmente sou Analista de Tecnologia da Informação no PARANACIDADE.
         <br/>
         <br/>
         <div>
